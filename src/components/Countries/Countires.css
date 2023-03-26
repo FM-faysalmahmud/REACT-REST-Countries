@@ -1,0 +1,8 @@
+.countries-cointainer{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 10px;
+}
+.country img{
+  width: 150px;
+}
