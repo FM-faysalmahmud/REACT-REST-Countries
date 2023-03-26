@@ -1,0 +1,9 @@
+.menu a{
+  text-decoration: none;
+  margin: 20px;
+  background-color: lightpink;
+  color: darkslategray;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 20px;
+}
